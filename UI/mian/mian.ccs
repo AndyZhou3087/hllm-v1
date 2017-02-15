@@ -1,0 +1,470 @@
+<Solution>
+  <PropertyGroup Name="mian" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="fonts">
+          <Fnt Name="amountnum.fnt" />
+          <Image Name="amountnum.png" />
+          <Fnt Name="bonusgoldnum.fnt" />
+          <Image Name="bonusgoldnum.png" />
+          <Fnt Name="buynum.fnt" />
+          <Image Name="buynum.png" />
+          <Fnt Name="card.fnt" />
+          <Image Name="card.png" />
+          <Fnt Name="clasicbestscorenum.fnt" />
+          <Fnt Name="clasicscorenum.fnt" />
+          <Fnt Name="commonnum.fnt" />
+          <Fnt Name="giftnum.fnt" />
+          <Fnt Name="hpupnum.fnt" />
+          <Image Name="hpupnum.png" />
+          <Fnt Name="logindaynum.fnt" />
+          <Image Name="logindaynum.png" />
+          <Fnt Name="loginrewardnum.fnt" />
+          <Fnt Name="loginrewardpropnum.fnt" />
+          <Fnt Name="loginreworddaynum.fnt" />
+          <Fnt Name="lotterypropnum.fnt" />
+          <Image Name="lotterypropnum.png" />
+          <Fnt Name="lotterytimesnum.fnt" />
+          <Image Name="lotterytimesnum.png" />
+          <Fnt Name="num.fnt" />
+          <Image Name="num.png" />
+          <Fnt Name="onsalenum.fnt" />
+          <Fnt Name="pricenum.fnt" />
+          <Image Name="pricenum.png" />
+          <Fnt Name="rewardmystarnum.fnt" />
+          <Image Name="rewardmystarnum.png" />
+          <Fnt Name="rewardstarnum1.fnt" />
+          <Image Name="rewardstarnum1.png" />
+          <Fnt Name="rewardstarnum2.fnt" />
+          <Image Name="rewardstarnum2.png" />
+          <Fnt Name="shopgiftnum.fnt" />
+          <Fnt Name="slvnum.fnt" />
+          <Fnt Name="suretimenum.fnt" />
+          <Fnt Name="tips.fnt" />
+          <Image Name="tips.png" />
+          <Fnt Name="unlocknum.fnt" />
+          <Fnt Name="winscore.fnt" />
+          <Fnt Name="winstagenum.fnt" />
+          <Image Name="winstagenum.png" />
+        </Folder>
+        <Folder Name="UI">
+          <Image Name="0.png" />
+          <Image Name="1.png" />
+          <Image Name="2.png" />
+          <Image Name="3.png" />
+          <Image Name="4.png" />
+          <Image Name="5.png" />
+          <Image Name="6.png" />
+          <Image Name="8zhe.png" />
+          <Image Name="9zhe.png" />
+          <Image Name="achievebtn.png" />
+          <Image Name="achievepropbox.png" />
+          <Image Name="achievetitle.png" />
+          <Image Name="action1.png" />
+          <Image Name="action2.png" />
+          <Image Name="action3.png" />
+          <Image Name="bigheart.png" />
+          <Image Name="bjdf.png" />
+          <Image Name="bluebtn.png" />
+          <Image Name="blxm.png" />
+          <Image Name="boss.png" />
+          <Image Name="boss10hei.png" />
+          <Image Name="boss1hei.png" />
+          <Image Name="boss2hei.png" />
+          <Image Name="boss3hei.png" />
+          <Image Name="boss4hei.png" />
+          <Image Name="boss5hei.png" />
+          <Image Name="boss6hei.png" />
+          <Image Name="boss7hei.png" />
+          <Image Name="boss8hei.png" />
+          <Image Name="boss9hei.png" />
+          <Image Name="bosschallengetext.png" />
+          <Image Name="bossranktitle.png" />
+          <Image Name="bosstz.png" />
+          <Image Name="buy.png" />
+          <Image Name="buybtn.png" />
+          <Image Name="buydesc0.png" />
+          <Image Name="buydesc1.png" />
+          <Image Name="buydesc2.png" />
+          <Image Name="buylight.png" />
+          <Image Name="buyproptitle.png" />
+          <Image Name="by10dsc.png" />
+          <Image Name="by15dsc.png" />
+          <Image Name="by20dsc.png" />
+          <Image Name="by30dsc.png" />
+          <Image Name="by8dsc.png" />
+          <Image Name="bybg.png" />
+          <Image Name="bybtntext.png" />
+          <Image Name="bydscbox.png" />
+          <Image Name="bytitle10.png" />
+          <Image Name="bytitle15.png" />
+          <Image Name="bytitle20.png" />
+          <Image Name="bytitle30.png" />
+          <Image Name="bytitle8.png" />
+          <Image Name="cgtitle.png" />
+          <Image Name="chgjs_0.png" />
+          <Image Name="cktitle.png" />
+          <Image Name="clasicbestdesc.png" />
+          <Image Name="clasicbesticon.png" />
+          <Image Name="clasicbtn.png" />
+          <Image Name="clasicdesc.png" />
+          <Image Name="clasicitem.png" />
+          <Image Name="clasiclvtext.png" />
+          <Image Name="clasicranktext.png" />
+          <Image Name="clasicranktitle.png" />
+          <Image Name="clasicscoretext.png" />
+          <Image Name="clasicsharetext.png" />
+          <Image Name="clasicsmodetext.png" />
+          <Image Name="clasicstagetext.png" />
+          <Image Name="clasictext.png" />
+          <Image Name="clasictitle.png" />
+          <Image Name="close.png" />
+          <Image Name="coingifttitle.png" />
+          <Image Name="continuegametext.png" />
+          <Image Name="continuetext.png" />
+          <Image Name="diamond.png" />
+          <Image Name="DiamondsLight_00.png" />
+          <Image Name="DiamondsLight_01.png" />
+          <Image Name="DiamondsLight_02.png" />
+          <Image Name="DiamondsLight_03.png" />
+          <Image Name="DiamondsLight_04.png" />
+          <Image Name="DiamondsLight_05.png" />
+          <Image Name="DiamondsLight_06.png" />
+          <Image Name="DiamondsLight_07.png" />
+          <Image Name="DiamondsLight_08.png" />
+          <Image Name="DiamondsLight_09.png" />
+          <Image Name="DiamondsLight_10.png" />
+          <Image Name="DiamondsLight_11.png" />
+          <Image Name="dik.png" />
+          <Image Name="dk.png" />
+          <Image Name="dy.png" />
+          <Image Name="exittext.png" />
+          <Image Name="failgiftbg.png" />
+          <Image Name="failgiftbtn.png" />
+          <Image Name="failtext.png" />
+          <Image Name="firstbtn.png" />
+          <Image Name="firstgifttitle.png" />
+          <Image Name="fistgiftdesc.png" />
+          <Image Name="flashbtn.png" />
+          <Image Name="flashranktitle.png" />
+          <Image Name="flashtext.png" />
+          <Image Name="flashtitle.png" />
+          <Image Name="freegifttitle.png" />
+          <Image Name="freetext.png" />
+          <Image Name="fsong.png" />
+          <Image Name="gemgifttitle.png" />
+          <Image Name="giftbthlight.png" />
+          <Image Name="giftclose.png" />
+          <Image Name="giftcloseclear.png" />
+          <Image Name="giftdt.png" />
+          <Image Name="giftdt1.png" />
+          <Image Name="giftisbuy.png" />
+          <Image Name="giftpp.png" />
+          <Image Name="giftzeng.png" />
+          <Image Name="goback.png" />
+          <Image Name="gohometext.png" />
+          <Image Name="gold.png" />
+          <Image Name="GoldLight_00.png" />
+          <Image Name="GoldLight_01.png" />
+          <Image Name="GoldLight_02.png" />
+          <Image Name="GoldLight_03.png" />
+          <Image Name="GoldLight_04.png" />
+          <Image Name="GoldLight_05.png" />
+          <Image Name="GoldLight_06.png" />
+          <Image Name="GoldLight_07.png" />
+          <Image Name="GoldLight_08.png" />
+          <Image Name="GoldLight_09.png" />
+          <Image Name="GoldLight_10.png" />
+          <Image Name="GoldLight_11.png" />
+          <Image Name="greenbtnbig.png" />
+          <Image Name="growbg.png" />
+          <Image Name="growUp.png" />
+          <Image Name="growupstar.png" />
+          <Image Name="growupstarbg.png" />
+          <Image Name="growuptext.png" />
+          <Image Name="hp.png" />
+          <Image Name="hpbuytext.png" />
+          <Image Name="hpbuytitle.png" />
+          <Image Name="hpmaxtext.png" />
+          <Image Name="hprecoverytext.png" />
+          <Image Name="hprecoverytimebox.png" />
+          <Image Name="hpuptext.png" />
+          <Image Name="jl.png" />
+          <Image Name="leveluptext.png" />
+          <Image Name="logingetedtext.png" />
+          <Image Name="loginisgettext.png" />
+          <Image Name="loginqqbtn.png" />
+          <Image Name="loginreward.png" />
+          <Image Name="loginrewardbg.png" />
+          <Image Name="loginrewarddaytext.png" />
+          <Image Name="loginrewardget.png" />
+          <Image Name="loginrewarditem0.png" />
+          <Image Name="loginrewarditem2.png" />
+          <Image Name="loginrewarditem3.png" />
+          <Image Name="loginrewarditem4.png" />
+          <Image Name="loginrewardtext.png" />
+          <Image Name="loginrewardtitle.png" />
+          <Image Name="loginrewardtuz.png" />
+          <Image Name="loginwxbtn.png" />
+          <Image Name="lottery5text.png" />
+          <Image Name="lotterychangetext.png" />
+          <Image Name="lotteryDisk.png" />
+          <Image Name="lotteryPointer.png" />
+          <Image Name="lotterystar.png" />
+          <Image Name="lotterytext.png" />
+          <Image Name="lotterywintext.png" />
+          <Image Name="lqhui.png" />
+          <Image Name="lvmaxtext.png" />
+          <Image Name="medal1.png" />
+          <Image Name="medal2.png" />
+          <Image Name="medal3.png" />
+          <Image Name="modifynamehereo.png" />
+          <Image Name="modifynameinputbox.png" />
+          <Image Name="modifynameokbtn.png" />
+          <Image Name="modifynamepenbtn.png" />
+          <Image Name="modifynametitle.png" />
+          <Image Name="morebtn.png" />
+          <Image Name="morehomebtn.png" />
+          <Image Name="moreqq.png" />
+          <Image Name="myrankitem.png" />
+          <Image Name="newerbtn.png" />
+          <Image Name="newerdesc.png" />
+          <Image Name="newergifttitle.png" />
+          <Image Name="numBg.png" />
+          <Image Name="offbtn.png" />
+          <Image Name="offtext.png" />
+          <Image Name="okbtn.png" />
+          <Image Name="oktext.png" />
+          <Image Name="onbtn.png" />
+          <Image Name="onsalebox.png" />
+          <Image Name="onsalegift.png" />
+          <Image Name="onsalegifttitle.png" />
+          <Image Name="onsalelight.png" />
+          <Image Name="ontext.png" />
+          <Image Name="passmj.png" />
+          <Image Name="passstagebg.png" />
+          <Image Name="passstagebtn.png" />
+          <Image Name="pausebg.png" />
+          <Image Name="pausebox.png" />
+          <Image Name="pausetext.png" />
+          <Image Name="propbtn.png" />
+          <Image Name="propgifttitle.png" />
+          <Image Name="propnumbox.png" />
+          <Image Name="rankbtn.png" />
+          <Image Name="ranktitle.png" />
+          <Image Name="rdisablebtn.png" />
+          <Image Name="redbtn.png" />
+          <Image Name="renewtext.png" />
+          <Image Name="reviveanimbg.png" />
+          <Image Name="revivedesc.png" />
+          <Image Name="revivegifttitle.png" />
+          <Image Name="revivetext.png" />
+          <Image Name="rewardbtn0.png" />
+          <Image Name="rewardbtn1.png" />
+          <Image Name="rewardtitlepaopao.png" />
+          <Image Name="rewardtitlepaopao1.png" />
+          <Image Name="richgifttitle.png" />
+          <Image Name="rm.png" />
+          <Image Name="RMB.png" />
+          <Image Name="rprop0.png" />
+          <Image Name="rprop1.png" />
+          <Image Name="rprop2.png" />
+          <Image Name="rprop3.png" />
+          <Image Name="rprop4.png" />
+          <Image Name="rprop5.png" />
+          <Image Name="rprop6.png" />
+          <Image Name="rstar.png" />
+          <Image Name="s_select.png" />
+          <Image Name="s1_0.png" />
+          <Image Name="s2_0.png" />
+          <Image Name="s3_0.png" />
+          <Image Name="s4_0.png" />
+          <Image Name="s5_0.png" />
+          <Image Name="s6_0.png" />
+          <Image Name="Saoguang_00.png" />
+          <Image Name="Saoguang_01.png" />
+          <Image Name="Saoguang_02.png" />
+          <Image Name="Saoguang_03.png" />
+          <Image Name="Saoguang_04.png" />
+          <Image Name="Saoguang_05.png" />
+          <Image Name="Saoguang_06.png" />
+          <Image Name="Saoguang_07.png" />
+          <Image Name="Saoguang_08.png" />
+          <Image Name="Saoguang_09.png" />
+          <Image Name="Saoguang_10.png" />
+          <Image Name="Saoguang_11.png" />
+          <Image Name="second.png" />
+          <Image Name="selectFream.png" />
+          <Image Name="sepline.png" />
+          <Image Name="seplinelong.png" />
+          <Image Name="settinexchangebox.png" />
+          <Image Name="setting.png" />
+          <Image Name="settingbg.png" />
+          <Image Name="settinggetbtn.png" />
+          <Image Name="settinggettext.png" />
+          <Image Name="settinghead.png" />
+          <Image Name="settingheadbox.png" />
+          <Image Name="settingidbox.png" />
+          <Image Name="settingmotifybtn.png" />
+          <Image Name="settingmusic.png" />
+          <Image Name="settingmusicoff.png" />
+          <Image Name="settingnamebox.png" />
+          <Image Name="settingoff.png" />
+          <Image Name="settingsound.png" />
+          <Image Name="settingsoundoff.png" />
+          <Image Name="settingtitle.png" />
+          <Image Name="sharebtn.png" />
+          <Image Name="shop.png" />
+          <Image Name="shopBg.png" />
+          <Image Name="shopBnt1.png" />
+          <Image Name="shopBnt1_1.png" />
+          <Image Name="shopBnt2.png" />
+          <Image Name="shopBnt2_1.png" />
+          <Image Name="shopdaoju.png" />
+          <Image Name="shopdaoju1.png" />
+          <Image Name="shopDiamondBtn.png" />
+          <Image Name="shopgem0.png" />
+          <Image Name="shopgem1.png" />
+          <Image Name="shopgem2.png" />
+          <Image Name="shopgem3.png" />
+          <Image Name="shopgem4.png" />
+          <Image Name="shopgemitem.png" />
+          <Image Name="shopgift.png" />
+          <Image Name="shopgift1.png" />
+          <Image Name="shopgift2.png" />
+          <Image Name="shopgift3.png" />
+          <Image Name="shopGiftbg1.png" />
+          <Image Name="shopgiftjinbi.png" />
+          <Image Name="shopgiftpao.png" />
+          <Image Name="shopgifttext.png" />
+          <Image Name="shopGold1000.png" />
+          <Image Name="shopgreebtn.png" />
+          <Image Name="shoplibao.png" />
+          <Image Name="shoplibao1.png" />
+          <Image Name="shoppropitem.png" />
+          <Image Name="shoptext.png" />
+          <Image Name="shopyuanjia.png" />
+          <Image Name="shopzuanshi.png" />
+          <Image Name="shopzuanshi1.png" />
+          <Image Name="skillbox.png" />
+          <Image Name="slv.png" />
+          <Image Name="smalldiamond.png" />
+          <Image Name="smallerbgbox.png" />
+          <Image Name="smallgold.png" />
+          <Image Name="stageleaf.png" />
+          <Image Name="stagerankbg.png" />
+          <Image Name="stagerankitem.png" />
+          <Image Name="stageranksep.png" />
+          <Image Name="stageranktag.png" />
+          <Image Name="start.png" />
+          <Image Name="startbtnfreetext.png" />
+          <Image Name="startpropfree.png" />
+          <Image Name="startredpoint.png" />
+          <Image Name="starttext.png" />
+          <Image Name="sunshine1.png" />
+          <Image Name="sunshine2.png" />
+          <Image Name="suregoldbox.png" />
+          <Image Name="sureisbuytext.png" />
+          <Image Name="SureLayerBg.png" />
+          <Image Name="sureprop0.png" />
+          <Image Name="sureprop1.png" />
+          <Image Name="sureprop2.png" />
+          <Image Name="surepropdescbox.png" />
+          <Image Name="surestagebox.png" />
+          <Image Name="surestagetext.png" />
+          <Image Name="SureText.png" />
+          <Image Name="suretimetext.png" />
+          <Image Name="sureunlock.png" />
+          <Image Name="taskbtn.png" />
+          <Image Name="tasktitle.png" />
+          <Image Name="tie.png" />
+          <Image Name="timebg.png" />
+          <Image Name="tips.png" />
+          <Image Name="topbox.png" />
+          <Image Name="unlocknumdesc.png" />
+          <Image Name="unlocktext1.png" />
+          <Image Name="unlocktext2.png" />
+          <Image Name="unlocktitle.png" />
+          <Image Name="usetext.png" />
+          <Image Name="vipbtn.png" />
+          <Image Name="vsboss1.png" />
+          <Image Name="vsboss10.png" />
+          <Image Name="vsboss2.png" />
+          <Image Name="vsboss3.png" />
+          <Image Name="vsboss4.png" />
+          <Image Name="vsboss5.png" />
+          <Image Name="vsboss6.png" />
+          <Image Name="vsboss7.png" />
+          <Image Name="vsboss8.png" />
+          <Image Name="vsboss9.png" />
+          <Image Name="vsbox.png" />
+          <Image Name="vshero.png" />
+          <Image Name="vstext.png" />
+          <Image Name="winbosstext.png" />
+          <Image Name="windi.png" />
+          <Image Name="winjltext.png" />
+          <Image Name="winNext.png" />
+          <Image Name="winorfail.png" />
+          <Image Name="winscoretext.png" />
+          <Image Name="winstar0.png" />
+          <Image Name="winStar1.png" />
+          <Image Name="wintext.png" />
+          <Image Name="xdk.png" />
+          <Image Name="zuidxc.png" />
+          <Image Name="zuigfs.png" />
+        </Folder>
+        <Project Name="AchieveLayer.csd" Type="Layer" />
+        <Project Name="bosschallenge.csd" Type="Layer" />
+        <Project Name="bosssettlement.csd" Type="Layer" />
+        <Project Name="buyHpLayer.csd" Type="Layer" />
+        <Project Name="buyPropsLayer.csd" Type="Layer" />
+        <Project Name="byGiftLayer.csd" Type="Layer" />
+        <Project Name="CGGiftLayer.csd" Type="Scene" />
+        <Project Name="ChooseInfoLayer.csd" Type="Scene" />
+        <Project Name="CKLayer.csd" Type="Layer" />
+        <Project Name="CMOverLayer.csd" Type="Layer" />
+        <Project Name="CMStartLayer.csd" Type="Layer" />
+        <Project Name="coinGiftLayer.csd" Type="Layer" />
+        <Project Name="CommonLayer.csd" Type="Layer" />
+        <Project Name="CommonTopNode.csd" Type="Node" />
+        <Project Name="FailLayer.csd" Type="Layer" />
+        <Project Name="firstGiftLayer.csd" Type="Layer" />
+        <Project Name="freegiftLayer.csd" Type="Layer" />
+        <Project Name="gemGiftLayer.csd" Type="Layer" />
+        <Image Name="loading.png" />
+        <Project Name="LoadingLayer.csd" Type="Layer" />
+        <Project Name="loginRewardLayer.csd" Type="Layer" />
+        <Project Name="LotteryActionLayer.csd" Type="Layer" />
+        <Project Name="LotteryLayer.csd" Type="Layer" />
+        <Project Name="ModifyNameLayer.csd" Type="Layer" />
+        <Project Name="moreLayer.csd" Type="Layer" />
+        <Project Name="newerGiftLayer.csd" Type="Layer" />
+        <Project Name="onSaleGiftLayer.csd" Type="Layer" />
+        <Project Name="passStageLayer.csd" Type="Layer" />
+        <Project Name="pauseLayer.csd" Type="Layer" />
+        <Image Name="point.png" />
+        <Image Name="progressBar.png" />
+        <Image Name="progressBarBg.png" />
+        <Image Name="progressBarSunshine.png" />
+        <Project Name="PromptNode.csd" Type="Node" />
+        <Project Name="propGiftLayer.csd" Type="Layer" />
+        <Project Name="rankLayer.csd" Type="Scene" />
+        <Project Name="reviveGiftLayer.csd" Type="Layer" />
+        <Project Name="richGiftLayer.csd" Type="Scene" />
+        <Project Name="selectPropNode.csd" Type="Node" />
+        <Project Name="settingLayer.csd" Type="Layer" />
+        <Image Name="shopgift0.png" />
+        <Project Name="ShopLayer.csd" Type="Layer" />
+        <Project Name="skillGrowLayer.csd" Type="Layer" />
+        <Project Name="StartLayer.csd" Type="Layer" />
+        <Project Name="SureStartLayer.csd" Type="Layer" />
+        <Project Name="taskLayer.csd" Type="Layer" />
+        <PlistInfo Name="ui.csi" Type="Plist" />
+        <Project Name="UnlockLayer.csd" Type="Layer" />
+        <Project Name="VSLayer.csd" Type="Node" />
+        <Project Name="winLayer.csd" Type="Layer" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

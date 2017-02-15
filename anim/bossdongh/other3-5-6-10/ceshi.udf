@@ -1,0 +1,44 @@
+<UserData Version="2.3.3.0">
+  <Properties>
+    <Item Key="CocosRecentOperation">
+      <Value ctype="CocosRecentOperation">
+        <LastPublishType Value="Resource" />
+        <IsLastPublish Value="True" />
+        <LastRunType Value="Windows" />
+      </Value>
+    </Item>
+    <Item Key="PackageParamsKey">
+      <Value ctype="PackageParams">
+        <LuaIsEncrypt Value="False" />
+        <LuaEncryptKey Value="" />
+        <LuaEncryptSign Value="" />
+        <Android_PackageName Value="org.cocos.ceshi" />
+        <AndroidkeyStore Value="" />
+        <AndroidVersion Value="" />
+        <iOS_Target Value="ceshi iOS" />
+        <iOS_BundleID Value="" />
+        <Platform Value="None" />
+        <RunPlatform Value="None" />
+        <FrameworkVersion Value="" />
+        <IsDebugKeystore Value="True" />
+        <EnableSourceMap Value="False" />
+        <EnableHTML5Advanced Value="False" />
+      </Value>
+    </Item>
+    <Item Key="TabsParamsKey">
+      <Value ctype="TabsInfo">
+        <OpenedDocuments>
+          <FilePathData Path="ditu05.csd" />
+          <FilePathData Path="ditu03.csd" />
+          <FilePathData Path="ditu03packer.csi" />
+          <FilePathData Path="ditu05packer.csi.csi" />
+          <FilePathData Path="boss03.csd" />
+          <FilePathData Path="boss05.csd" />
+          <FilePathData Path="ditu06.csd" />
+          <FilePathData Path="boss06.csd" />
+        </OpenedDocuments>
+        <ActiveDocument Path="ditu05.csd" />
+      </Value>
+    </Item>
+  </Properties>
+</UserData>
